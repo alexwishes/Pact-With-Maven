@@ -1,4 +1,6 @@
 # 说明
+网上的代码都是基于gradle的, 由于团队需要使用maven, 特将代码转换成maven, 供有需要的人使用~~~
+原来的gradle版本代码:https://github.com/Mikuu/Pact-JVM-Example
 ## 一. 结构介绍
 1. consumer里面包含2个文件夹, 代表2个consumer: miku和nanoha
 2. provider就是服务提供者
